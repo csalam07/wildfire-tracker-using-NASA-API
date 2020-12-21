@@ -1,5 +1,5 @@
 ## Live Demo :
-https://covid19tracker321.netlify.app/
+https://wildfire-tracker1.netlify.app/
 
 # Getting Started with Create React App
 
@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2ed381dd-7ced-4037-a9f1-05a56252a3b9/deploy-status)](https://app.netlify.com/sites/wildfire-tracker1/deploys)
